@@ -1,0 +1,7 @@
+c:\users\acer-pc\source\repos\PracticeModul8\PracticeModul8\bin\Debug\PracticeModul8.exe.config
+c:\users\acer-pc\source\repos\PracticeModul8\PracticeModul8\bin\Debug\PracticeModul8.exe
+c:\users\acer-pc\source\repos\PracticeModul8\PracticeModul8\bin\Debug\PracticeModul8.pdb
+c:\users\acer-pc\source\repos\PracticeModul8\PracticeModul8\obj\Debug\PracticeModul8.csprojAssemblyReference.cache
+c:\users\acer-pc\source\repos\PracticeModul8\PracticeModul8\obj\Debug\PracticeModul8.csproj.CoreCompileInputs.cache
+c:\users\acer-pc\source\repos\PracticeModul8\PracticeModul8\obj\Debug\PracticeModul8.exe
+c:\users\acer-pc\source\repos\PracticeModul8\PracticeModul8\obj\Debug\PracticeModul8.pdb
